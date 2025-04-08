@@ -1,4 +1,4 @@
-## Hi there 
+## "The bug is not in my code; it's in Intel's architecture."
 
 <!--
 **Burhxn/burhxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 !-->
 
 
-<h1 align="center">Hi </h1>
 
 
 <p align="left">
