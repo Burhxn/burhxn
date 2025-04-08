@@ -1,4 +1,4 @@
-## "The bug is not in my code; it's in Intel's architecture."
+## The bug is not in my code, it's in Intel's architecture.
 
 <!--
 **Burhxn/burhxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
